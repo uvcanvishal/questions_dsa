@@ -1,0 +1,10 @@
+Assignment Problem
+Problem Name: String output
+Problem Description: ####What is the output of the following code if the input string is "Career Labs"?
+
+    Scanner s = new Scanner(System.in);
+    String str;
+    str = s.next();
+    System.out.print(str);
+
+Options:

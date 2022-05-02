@@ -1,0 +1,5 @@
+Assignment Problem
+Problem Name: Automatic type conversion
+Problem Description: ####Automatic type conversion in Java takes place when :
+
+Options:

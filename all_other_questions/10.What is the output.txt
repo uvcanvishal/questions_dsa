@@ -1,0 +1,16 @@
+Assignment Problem
+Problem Name: What is the output
+Problem Description: ####What is the output ? 
+
+    public class Main {
+        public static void main(String[] args) {
+		int a = 10;
+		while(a > 5) {
+			int b = 1;
+			System.out.print(b + " ");
+			a--;
+		}
+        }
+    }
+
+Options:

@@ -1,0 +1,13 @@
+Assignment Problem
+Problem Name: Fill the output
+Problem Description: ####What will be the output of the following code ?
+        public static void func(int a, int b){
+		System.out.println(a + b);
+        }
+
+        public static void main(String[] args) {
+		int a = 7;
+		func(a, 12);
+        }
+
+Options:

@@ -1,0 +1,10 @@
+Assignment Problem
+Problem Name: Multiple inputs
+Problem Description: ####What is the output of the following code  if input is : 10 abc def  
+    Scanner s = new Scanner(System.in);
+    int a = s.nextInt();
+    String str = s.next();
+    System.out.print(a);
+    System.out.println(str);
+
+Options:

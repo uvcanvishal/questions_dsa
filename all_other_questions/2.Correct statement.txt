@@ -1,0 +1,5 @@
+Assignment Problem
+Problem Name: Correct statement
+Problem Description: ####Which of the following statement(s) about stack data structure is/are NOT correct?
+
+Options:

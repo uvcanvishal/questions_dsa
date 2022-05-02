@@ -1,0 +1,10 @@
+Assignment Problem
+Problem Name: Predict the output
+Problem Description: ####What is the output of the following code if the input  is : 5 10 ?
+
+    Scanner s = new Scanner(System.in);
+    int a = s.nextInt();
+    int b = s.nextInt();
+    System.out.println(a+b);
+
+Options:

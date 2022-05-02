@@ -1,0 +1,4 @@
+Assignment Problem
+Problem Name: Worst case operation
+Problem Description: ####In linked list implementation of queue, if only front pointer is maintained, which of the following operation take worst case time (i.e. O(n) )?
+Options:

@@ -1,0 +1,14 @@
+Assignment Problem
+Problem Name: Check the error
+Problem Description: ####Will following code generate error ?
+	
+    public class Main {
+        public static void main(String[] args) {
+		for(int i = 0; i < 3; i++) {
+			System.out.print(i + " ");
+            }
+		System.out.print(i + " ");
+        }
+    }
+
+Options:

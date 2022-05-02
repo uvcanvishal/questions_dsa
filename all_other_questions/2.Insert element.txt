@@ -1,0 +1,5 @@
+Assignment Problem
+Problem Name: Insert element
+Problem Description: ####In optimized linked list implementation of a queue, where does a new element be inserted?
+
+Options:

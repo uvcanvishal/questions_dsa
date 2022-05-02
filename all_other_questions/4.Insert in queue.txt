@@ -1,0 +1,4 @@
+Assignment Problem
+Problem Name: Insert in queue
+Problem Description: ####In linked list implementation of a queue, front and rear pointers are tracked. Which of these pointers will change during an insertion into EMPTY queue?
+Options:

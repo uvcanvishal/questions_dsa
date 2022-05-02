@@ -1,0 +1,5 @@
+Assignment Problem
+Problem Name: Insert at 2nd position
+Problem Description: ####There is reference (or pointer) to first Node of the Linked List, then time required to insert element to second position is __________.
+####Indexing starts from 0.
+Options:

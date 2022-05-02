@@ -1,0 +1,7 @@
+Assignment Problem
+Problem Name: Figure out the Output
+Problem Description: ####What will be the output ?
+	int i = ‘c’;
+	System.out.println(i);
+
+Options:

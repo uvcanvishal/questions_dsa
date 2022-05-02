@@ -1,0 +1,6 @@
+Assignment Problem
+Problem Name: Error in code
+Problem Description: ####What is the error in this code?
+    byte b = 50;
+    b = b * 50;
+Options:

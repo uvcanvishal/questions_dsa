@@ -1,0 +1,4 @@
+Assignment Problem
+Problem Name: Uninitialized Local Variable
+Problem Description: ####Compiler never assigns a default value to an uninitialized local variable in Java Programming. Whether this statement is true or false ?
+Options:

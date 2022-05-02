@@ -1,0 +1,7 @@
+Assignment Problem
+Problem Name: Correct Statement
+Problem Description: ####Figure out the correct statement for the code below ?
+	int[] arr = new int[5];
+	arr = new int[6];
+
+Options:

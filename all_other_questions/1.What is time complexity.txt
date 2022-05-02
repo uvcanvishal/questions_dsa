@@ -1,0 +1,13 @@
+Assignment Problem
+Problem Name: What is time complexity
+Problem Description: ####What is the time complexity of following code ?
+    int sumOfDigits(int n){
+            int sum;
+            if(n < 10){
+                return n;
+            }
+            sum = (n % 10) + sumOfDigits(n / 10);
+            return sum;
+    }
+
+Options:

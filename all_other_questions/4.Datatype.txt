@@ -1,0 +1,4 @@
+Assignment Problem
+Problem Name: Datatype
+Problem Description: ####Which of the following  data type stores longest decimal number ?
+Options:

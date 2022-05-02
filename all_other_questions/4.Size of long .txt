@@ -1,0 +1,4 @@
+Assignment Problem
+Problem Name: Size of long 
+Problem Description: ####Primitive data type 'long' is having size _______ byte(s) in Java Programming. 
+Options:

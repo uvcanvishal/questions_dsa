@@ -1,0 +1,4 @@
+Assignment Problem
+Problem Name: Correct order
+Problem Description: ####If the elements “p”, “q”, “r” and “s” are placed in a queue and are deleted one at a time, in what order will they be removed?
+Options:

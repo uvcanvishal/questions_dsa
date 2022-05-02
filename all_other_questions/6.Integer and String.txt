@@ -1,0 +1,9 @@
+Assignment Problem
+Problem Name: Integer and String
+Problem Description: ####What is the output of the following code  if input is : abc def 10
+ 		
+    Scanner s = new Scanner(System.in);
+    String str = s.next();
+    int a = s.nextInt();
+    System.out.print(str + " " + a);
+Options:

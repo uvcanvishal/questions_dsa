@@ -1,0 +1,16 @@
+Assignment Coding Problem
+Problem Name: Print Permutations - String
+Problem Level: MEDIUM
+Problem Description: ####Given a string, find and print all the possible permutations of the input string.
+
+#####Note : The order of permutations are not important. Just print them in different lines.
+ #####Sample Input : 
+    abc
+
+#####Sample Output : 
+    abc
+    acb
+    bac
+    bca
+    cab
+    cba

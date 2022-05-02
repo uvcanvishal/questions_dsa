@@ -1,0 +1,5 @@
+Assignment Problem
+Problem Name: Stack implementation
+Problem Description: ####Which of the following operation take worst case i.e. linear time (O(n)) in the array implementation of stack?
+
+Options:

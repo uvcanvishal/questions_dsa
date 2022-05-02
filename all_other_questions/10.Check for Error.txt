@@ -1,0 +1,7 @@
+Assignment Problem
+Problem Name: Check for Error
+Problem Description: ####Will following statement give an error ?
+
+    float f = 1.4;
+
+Options:
